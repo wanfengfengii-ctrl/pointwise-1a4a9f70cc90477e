@@ -1,0 +1,9 @@
+record,meter,hour,display,half_width,origin
+t0,T,0,0,0,toy:T0
+t2,T,2,2,0,toy:T2
+a0,A,0,0,0,toy:A0
+a2,A,2,1,0,toy:A2
+b0,B,0,0,0,toy:B0
+b2,B,2,1,0,toy:B2
+c0,C,0,0,0,toy:C0
+c2,C,2,0,0,toy:C2

@@ -1,0 +1,5 @@
+record,meter,max_m3ph,origin
+mT,T,2,toy:capT
+mA,A,1,toy:capA
+mB,B,1,toy:capB
+mC,C,0,toy:capC

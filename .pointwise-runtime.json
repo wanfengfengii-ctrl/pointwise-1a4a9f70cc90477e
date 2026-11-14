@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "kind": "cli",
+  "setup": [
+    [
+      "python3",
+      "-m",
+      "pip",
+      "install",
+      "scipy==1.13.1"
+    ]
+  ],
+  "verify": [
+    "python3",
+    "checks.py",
+    "verify"
+  ],
+  "demo": [
+    "python3",
+    "checks.py",
+    "demo"
+  ]
+}

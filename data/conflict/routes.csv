@@ -1,0 +1,6 @@
+record,branch,start,end,region,origin
+rA0,A,0,1,east,toy:valve0
+rA1,A,1,2,west,toy:valve1
+rB0,B,0,1,west,toy:valve0
+rB1,B,1,2,east,toy:valve1
+rC,C,0,2,south,toy:fixed

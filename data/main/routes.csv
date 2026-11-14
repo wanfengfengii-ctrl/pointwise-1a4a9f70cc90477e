@@ -1,0 +1,6 @@
+record,branch,start,end,region,origin
+rA0,A,0,30,east,valve-log:07
+rA1,A,30,48,west,valve-log:08
+rB0,B,0,30,west,valve-log:07
+rB1,B,30,48,east,valve-log:08
+rC,C,0,48,south,valve-log:01

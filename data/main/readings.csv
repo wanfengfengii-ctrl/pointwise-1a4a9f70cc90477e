@@ -1,0 +1,17 @@
+record,meter,hour,display,half_width,origin
+t0,T,0,1000,1,logger-T:001
+t18,T,18,1168,1,logger-T:019
+t30,T,30,1294,1,logger-T:031
+t48,T,48,1450,1,logger-T:049
+a0,A,0,100,0.5,logger-A:001
+a12,A,12,136,0.5,logger-A:013
+a36,A,36,244,0.5,logger-A:037
+a48,A,48,268,0.5,logger-A:049
+b0,B,0,200,0.5,logger-B:001
+b18,B,18,266,0.5,logger-B:019
+b30,B,30,314,0.5,logger-B:031
+b48,B,48,386,0.5,logger-B:049
+c0,C,0,300,0.5,logger-C:001
+c24,C,24,348,0.5,logger-C:025
+c42,C,42,384,0.5,logger-C:043
+c48,C,48,396,0.5,logger-C:049

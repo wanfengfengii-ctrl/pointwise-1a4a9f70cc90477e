@@ -1,0 +1,5 @@
+record,meter,max_m3ph,origin
+mT,T,12,calibration-sheet-17:T
+mA,A,6,calibration-sheet-17:A
+mB,B,6,calibration-sheet-17:B
+mC,C,3,calibration-sheet-17:C
