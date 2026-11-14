@@ -12,12 +12,16 @@
   ],
   "verify": [
     "python3",
-    "checks.py",
-    "verify"
+    "analysis.py",
+    "verify",
+    "data/main",
+    "outputs/main"
   ],
   "demo": [
     "python3",
-    "checks.py",
-    "demo"
+    "analysis.py",
+    "demo",
+    "data/main",
+    "outputs/main"
   ]
 }
